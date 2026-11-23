@@ -1,23 +1,20 @@
-# Water Intake Tracker
+## Water Intake Tracking Guide
 
-An application for recording daily water consumption.
+This application helps users record
+their daily water consumption.
 
-## Features
+### Main Features
+- Record water intake
+- Track daily consumption
+- Display accumulated amounts
+- Review daily progress
 
-- Water intake logging
-- Daily total
-- Local storage
+### How to Use
+1. Enter the amount of water consumed.
+2. Add the amount to the tracker.
+3. Review the daily total.
+4. Continue recording throughout the day.
 
-## How to Use
-
-Enter an amount in milliliters and click Add Water.
-
-## Technologies
-
-- HTML
-- CSS
-- JavaScript
-
-## Running Locally
-
-Open `index.html` in a modern web browser.
+### Development Notes
+Use consistent measurement units
+and validate numerical inputs.
