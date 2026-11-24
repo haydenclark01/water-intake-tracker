@@ -18,3 +18,12 @@ their daily water consumption.
 ### Development Notes
 Use consistent measurement units
 and validate numerical inputs.
+## Manual Testing Checklist
+
+- [ ] Record a positive quantity of water.
+- [ ] Verify the daily total after adding another amount.
+- [ ] Reject zero or negative quantities and test Reset.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
